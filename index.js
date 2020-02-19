@@ -121,10 +121,10 @@ Baby.prototype.play = function (){
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. this refers to an object it is inside
+  2. when using alone, this refer to global object, which is the window.
+  3. the value of this depend on how the function is called
+  4. method like call and apply can refer this to any object
 */
 
 
